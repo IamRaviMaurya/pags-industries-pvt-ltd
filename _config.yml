@@ -20,16 +20,16 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   FILTER CATOGORIES :
     - Air Filters: "#"
     - Water Filters: "#"
     - Oil & Chemical Filters: "#"
     - Gas Filters: "#"
     - Custom Filters: "#" 
- 
 
-  Author's home: "#"
+  Industries served: "#"
+  About Us: "aboutme"
+  Contact us: "#"
 
 ################
 # --- Logo --- #
@@ -62,7 +62,7 @@ social-network-links:
   twitter: daattali
   patreon: DeanAttali
   youtube: "@daattali"
-  whatsapp: 15551212
+  whatsapp: 918983449870
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
