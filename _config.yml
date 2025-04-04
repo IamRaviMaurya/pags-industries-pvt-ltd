@@ -20,7 +20,7 @@ author: Copyright ©
 ###############################################
 
 navbar-links:
-  Home: "home"
+  Home: "#"
   FILTER CATOGORIES :
     - Air Filters: "#"
     - Water Filters: "#"
