@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About me
+cover-title: "About Us"
+cover-subtitle: "Learn more about our journey and mission"
 # subtitle: Why you'd want to go on a date with me
 ---
 

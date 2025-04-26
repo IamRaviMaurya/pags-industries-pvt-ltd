@@ -8,6 +8,7 @@ title: OUR VISION
 # comments: false
 # mathjax: false
 # author: 
+thumbnail-img: /assets/img/vision.png
 ---
 
 PAGS Industries has been a leading provider of industrial filtration

@@ -20,6 +20,7 @@ author: Copyright ©
 ###############################################
 
 navbar-links:
+
   Home: "#"
   FILTER CATOGORIES :
     - Air Filters: "#"
@@ -146,7 +147,7 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
+navbar-col: "#FFFFFF"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
